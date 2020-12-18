@@ -47,9 +47,9 @@ All extracted png images were resized, and skull and other tissues were stripped
 
 Here is an example of the resulted extracted brains:
 
-<img src="../img/skull.png">  <img src="../img/noskull.png">
+<img src="./img/skull.png">  <img src="./img/noskull.png">
 
-![Alt text](../img/skull.gif) - - - ![Alt text](../img/noskull.gif)
+![Alt text](./img/skull.gif) - - - ![Alt text](./img/noskull.gif)
 
 # Models Summary
 Several CONV2D models were designed to improve the accuracy of our model. Baseline model accuracy was 50%.
@@ -65,12 +65,12 @@ Overall, these are desent results although we have some overvitting issues. Futu
 **You can upload your MRI image as shown below.**
 
 
-<img src="../img/demo2.png">
+<img src="./img/demo2.png">
 
 
 **Then you can click the button to classify and the app would give a prediction.**
 
-<img src="../img/demo3.png">
+<img src="./img/demo3.png">
 
 ***In order to use the interactive AD Predector, please download the github repo and run `AD_app.py` file in the [demo app](https://github.com/ferastwal/AD-Predictions-Capstone-Project/tree/main/AD-predector-demo-app) folder.***
 
